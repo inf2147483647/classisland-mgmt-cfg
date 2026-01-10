@@ -1,0 +1,103 @@
+{
+  "Projects": [
+    {
+      "Id": "5a5ef49c-8ca7-4558-9b50-4746decbb3f6",
+      "Name": "\u53EF\u590D\u7528\u7684\u89C4\u5219\u96C61",
+      "Type": 1,
+      "Ruleset": {
+        "Mode": 0,
+        "IsReversed": false,
+        "Groups": [
+          {
+            "Rules": [
+              {
+                "IsReversed": false,
+                "Id": "classisland.windows.text",
+                "Settings": {
+                  "Text": "",
+                  "UseRegex": false,
+                  "IsActive": false
+                },
+                "IsActive": false
+              }
+            ],
+            "Mode": 1,
+            "IsReversed": false,
+            "IsEnabled": true,
+            "IsActive": false
+          }
+        ],
+        "IsActive": false
+      },
+      "Actions": [],
+      "IsActive": false
+    },
+    {
+      "Id": "d54c609c-5339-4380-bbb7-a875e89447e2",
+      "Name": "\u65B0\u53EF\u590D\u7528\u7684\u884C\u52A8\u7EC4",
+      "Type": 2,
+      "Ruleset": {
+        "Mode": 0,
+        "IsReversed": false,
+        "Groups": [
+          {
+            "Rules": [
+              {
+                "IsReversed": false,
+                "Id": "",
+                "Settings": null,
+                "IsActive": false
+              }
+            ],
+            "Mode": 1,
+            "IsReversed": false,
+            "IsEnabled": true,
+            "IsActive": false
+          }
+        ],
+        "IsActive": false
+      },
+      "Actions": [
+        {
+          "IsCompleted": false,
+          "Id": "classisland.settings",
+          "Settings": {
+            "Name": "CurrentComponentConfig",
+            "Value": "Default2",
+            "IsActive": false
+          },
+          "IsActive": false
+        }
+      ],
+      "IsActive": false
+    },
+    {
+      "Id": "0fe4642a-4154-4d90-b467-932b38207132",
+      "Name": "\u65B0 Blockly \u884C\u52A8",
+      "Type": 0,
+      "Ruleset": {
+        "Mode": 0,
+        "IsReversed": false,
+        "Groups": [
+          {
+            "Rules": [
+              {
+                "IsReversed": false,
+                "Id": "",
+                "Settings": null,
+                "IsActive": false
+              }
+            ],
+            "Mode": 1,
+            "IsReversed": false,
+            "IsEnabled": true,
+            "IsActive": false
+          }
+        ],
+        "IsActive": false
+      },
+      "Actions": [],
+      "IsActive": false
+    }
+  ]
+}
