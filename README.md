@@ -9,7 +9,7 @@
 - **宽袍大袖**：展现飘逸灵动，传递文人风骨。  
 - **纹样寓意**：龙凤呈祥、梅兰竹菊，一针一线皆有故事。  
 
-<img src="hanfu/xingzhi.webp" alt="汉服形制图" width="400"> 
+<img src="hanfu/xingzhi.webp" alt="汉服形制图" width="600"> 
 
 1. 左衣身
 2. 右衣身
