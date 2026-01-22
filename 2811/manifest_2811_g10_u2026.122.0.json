@@ -1,0 +1,16 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "Classisland集控2811",
+    "ClassPlanSource": {
+        "Value": "https://github.com/inf2147483647/classisland-mgmt-cfg/2811/ClassPlans_2810_g10_u2026.122.0.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://github.com/inf2147483647/classisland-mgmt-cfg/2811/TimeLayouts_2810_g10_u2026.122.0.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://github.com/inf2147483647/classisland-mgmt-cfg/2811/subjects_2810_g10_u2026.122.0.json",
+        "Version": 1
+    }
+}
