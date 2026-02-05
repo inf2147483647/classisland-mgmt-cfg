@@ -68,7 +68,7 @@ The beauty of Hanfu lies in its structural design:
 ---
 
 **Source**: Wikipedia  
-**Wikipedia direct link**: [Wikipedia](https://zh.wikipedia.org/wiki/%E6%BC%A2%E6%9C%8D%E5%88%97%E8%A1%A8#%E6%B1%89%E6%9C%8D%E6%A7%8B%E4%BB%B6%E5%90%8D%E7%A8%B1)  
+**Wikipedia direct link**: [Wikipedia](https://en.wikipedia.org/wiki/List_of_hanfu)  
 **Available in China**: [Hanfu Archives](http://120.25.237.190/hanfu/lishi/wiki/wangye/%E6%B1%89%E6%9C%8D%E5%88%97%E8%A1%A8%20-%20%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%EF%BC%8C%E8%87%AA%E7%94%B1%E7%9A%84%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%20(2023_8_20%2019_25_27).html)  
 
 ## emoji is not available! **二、汉服复兴：从历史到现代的传承**
