@@ -38,38 +38,7 @@
 来源：维基百科  
 维基直达：[维基百科](https://zh.wikipedia.org/wiki/%E6%BC%A2%E6%9C%8D%E5%88%97%E8%A1%A8#%E6%B1%89%E6%9C%8D%E6%A7%8B%E4%BB%B6%E5%90%8D%E7%A8%B1)  
 国内可用：[汉服资料馆](http://120.25.237.190/hanfu/lishi/wiki/wangye/%E6%B1%89%E6%9C%8D%E5%88%97%E8%A1%A8%20-%20%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%EF%BC%8C%E8%87%AA%E7%94%B1%E7%9A%84%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%20(2023_8_20%2019_25_27).html)  
-## Hanfu Culture: A Millennium of Elegance, Emotion Woven in a Garment
 
----
-
-### I. Hanfu: The Oriental Aesthetics That Spans a Millennium
-Hanfu, whose full name is *"the traditional costume of the Han nationality"*, is one of the core symbols of Chinese culture. It traces its origins back to the era of the Yellow Emperor, when "people wore layered robes and the world was governed with order". Evolving through the solemnity of the Qin and Han dynasties, the ethereal grace of the Wei and Jin dynasties, the opulence of the Tang and Song dynasties, and the refined elegance of the Ming and Qing dynasties, Hanfu carries the aesthetics and wisdom of Chinese civilization.
-
-The beauty of Hanfu lies in its structural design:
-- **Cross-collar with right overlap**: Symbolizes the harmony of heaven and earth, embodying Eastern philosophical thought.
-- **Loose robes and wide sleeves**: Exude an aura of elegance and agility, conveying the moral integrity of ancient literati.
-- **Symbolic patterns**: Dragons and phoenixes represent auspiciousness; plum blossoms, orchids, bamboo, and chrysanthemums hold cultural stories in every stitch.
-
----
-
-#### Diagram Labels
-1.  **Left front panel**
-2.  **Right front panel**
-3.  **Sleeve**: The garment's sleeve. Traditionally, Hanfu sleeve joints follow the edge of the fabric (determined by cloth width), differing from Western clothing that joins sleeves at the shoulder.
-4.  **Mèi**: The section between the sleeve and the cuff (the extended part of the sleeve).
-5.  **Rèn**: The front chest section of the garment. Hanfu typically features a rightward overlap (from the front, the right panel covers the left, forming a lowercase "y"), known as *right overlap*.
-6.  **Jīn**: The edge of the front chest, i.e., the collar trim of cross-collar or straight-collar styles.
-7.  **Qū**: The cuff. Some Hanfu styles have cuffs narrower than the sleeves, called *narrowed cuffs*.
-8.  **Gé**: The root of the sleeve, connecting to the main garment body.
-9.  **Tie**: Used to fasten the garment.
-10. **Dú**: The central back seam. Due to the narrow width of ancient fabric, a seam was stitched at the center of the back, known as the *central back seam*.
-11. **Collar guard**: An additional layer over the collar, shorter than the collar itself, made of plain fabric.
-
----
-
-**Source**: Wikipedia  
-**Wikipedia direct link**: [Wikipedia](https://en.wikipedia.org/wiki/List_of_hanfu)  
-**Available in China**: [Hanfu Archives](http://120.25.237.190/hanfu/lishi/wiki/wangye/%E6%B1%89%E6%9C%8D%E5%88%97%E8%A1%A8%20-%20%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%EF%BC%8C%E8%87%AA%E7%94%B1%E7%9A%84%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%20(2023_8_20%2019_25_27).html)  
 
 ## emoji is not available! **二、汉服复兴：从历史到现代的传承**
 ### 🌱 **复兴背景**  
