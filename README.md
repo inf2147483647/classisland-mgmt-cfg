@@ -9,4 +9,5 @@ Exclusive to the 2028 graduating class of Kaifeng No. 25 Middle School, China (H
 EN <span style="font-size:16px;">Repository author, Cover image ©Copyright Cheng Kun 2026 All rights reserved. Not for download or forwarding. Infringement will be prosecuted.  </span>  
 JP <span style="font-size:20px;">表紙画像 ©程焜（倉庫著者） 2026 すべての権利を保有します。ダウンロードおよび転送禁止。無断転載を禁じます。</span>    
 RU Обложка ©程焜 (Автор репозитория) 2026. Все права защищены. Запрещено скачивание и распространение. Нарушители будут привлечены к ответственности.
-目前已完成2801，2802，2810，2811，2818的ClassIsland集控配置文件的编写
+目前已完成2801，2802，2810，2811，2818的ClassIsland集控配置文件的编写  
+这张图片放班级白板上比我整个人都大
