@@ -61,7 +61,7 @@
     "DefaultOnClassTimePointMinutes": 40,
     "DefaultBreakingTimePointMinutes": 10,
     "IsSplashEnabled": false,
-    "SplashCustomText": "原神，启动",
+    "SplashCustomText": "复兴汉服，与子偕行！",
     "SplashCustomLogoSource": "",
     "ExactTimeServer": "pool.ntp.org",
     "IsExactTimeEnabled": true,
