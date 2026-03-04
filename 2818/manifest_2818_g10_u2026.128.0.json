@@ -14,7 +14,7 @@
         "Version": 1
     },
     "DefaultSettingsSource": {
-        "Value": "https://example.com/settings.json",
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2818/Settings.json",
         "Version": 1
     }
 }
