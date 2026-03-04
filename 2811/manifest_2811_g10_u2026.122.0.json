@@ -12,5 +12,9 @@
     "SubjectsSource": {
         "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2811/subjects_2811_g10_u2026.122.0.json",
         "Version": 1
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2811/Settings.json",
+        "Version": 1
     }
 }
