@@ -1,0 +1,717 @@
+{
+    "SelectedProfile": "Default.json",
+    "IsMainWindowVisible": true,
+    "IsWelcomeWindowShowed": true,
+    "SettingsOverlay": {
+  
+    },
+    "WeatherLongitude": 114.207,
+    "WeatherLatitude": 34.8138,
+    "WeatherLocationSource": 1,
+    "AutoRefreshWeatherLocation": false,
+    "SingleWeekStartTime": "2025-09-01T00:00:00",
+    "MultiWeekRotationOffset": [-1, -1, 0, 0, 0],
+    "ClassPrepareNotifySeconds": 60,
+    "IsClassPrepareNotificationEnabled": true,
+    "MiniInfoProviderSettings": {
+  
+    },
+    "SelectedMiniInfoProvider": "d9fc55d6-8061-4c21-b521-6b0532ff735f",
+    "ShowDate": true,
+    "HideOnClass": false,
+    "IsClassChangingNotificationEnabled": true,
+    "IsClassOffNotificationEnabled": true,
+    "HideMode": 1,
+    "HiedRules": {
+      "Mode": 0,
+      "IsReversed": false,
+      "Groups": [
+        {
+          "Rules": [
+            {
+              "IsReversed": false,
+              "Id": "",
+              "Settings": null,
+              "IsActive": false
+            }
+          ],
+          "Mode": 1,
+          "IsReversed": false,
+          "IsEnabled": true,
+          "IsActive": false
+        }
+      ],
+      "IsActive": false
+    },
+    "HideOnFullscreen": false,
+    "ExcludedFullscreenWindow": [
+      "explorer"
+    ],
+    "HideOnMaxWindow": false,
+    "IsReportingEnabled": true,
+    "TaskBarIconClickBehavior": 0,
+    "ShowExtraInfoOnTimePoint": true,
+    "ExtraInfoType": 0,
+    "IsCountdownEnabled": true,
+    "CountdownSeconds": 60,
+    "ExtraInfo4ShowSecondsSeconds": 300,
+    "ScheduleSpacing": 1,
+    "ShowCurrentLessonOnlyOnClass": false,
+    "IsNonExactCountdownEnabled": false,
+    "DefaultOnClassTimePointMinutes": 40,
+    "DefaultBreakingTimePointMinutes": 10,
+    "IsSplashEnabled": false,
+    "SplashCustomText": "原神，启动",
+    "SplashCustomLogoSource": "",
+    "ExactTimeServer": "pool.ntp.org",
+    "IsExactTimeEnabled": true,
+    "TimeOffsetSeconds": 0,
+    "IsTimeAutoAdjustEnabled": false,
+    "TimeAutoAdjustSeconds": 1,
+    "LastTimeAdjustDateTime": "2026-01-11T00:00:00+08:00",
+    "IsTransientDisabled": true,
+    "IsWaitForTransientDisabled": true,
+    "IsCriticalSafeMode": true,
+    "ShowDetailedStatusOnSplash": false,
+    "CriticalSafeModeMethod": 1,
+    "AutoDisableCorruptPlugins": true,
+    "CorruptPluginsDisabledLastSession": false,
+    "Theme": 2,
+    "PrimaryColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 0,
+      "G": 255,
+      "B": 4,
+      "ScA": 1,
+      "ScR": 0,
+      "ScG": 1,
+      "ScB": 0.001214108
+    },
+    "SecondaryColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 0,
+      "G": 97,
+      "B": 149,
+      "ScA": 1,
+      "ScR": 0,
+      "ScG": 0.119538434,
+      "ScB": 0.3005438
+    },
+    "ColorSource": 0,
+    "WallpaperColorPlatte": [],
+    "SelectedPlatteIndex": 0,
+    "IsWallpaperAutoUpdateEnabled": false,
+    "WallpaperAutoUpdateIntervalSeconds": 10,
+    "WallpaperClassName": "",
+    "IsFallbackModeEnabled": true,
+    "UseExperimentColorPickingMethod": false,
+    "TargetLightValue": 0.6,
+    "IsCustomBackgroundColorEnabled": false,
+    "BackgroundColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "ScA": 1,
+      "ScR": 0,
+      "ScG": 0,
+      "ScB": 0
+    },
+    "Opacity": 0.25,
+    "Scale": 0.9,
+    "MainWindowFont": "Default_SC 85W",
+    "MainWindowFontWeight2": 400,
+    "RadiusX": 10,
+    "RadiusY": 0,
+    "MainWindowSecondaryFontSize": 14,
+    "MainWindowBodyFontSize": 16,
+    "MainWindowEmphasizedFontSize": 18,
+    "MainWindowLargeFontSize": 20,
+    "IsCustomForegroundColorEnabled": false,
+    "CustomForegroundColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 30,
+      "G": 144,
+      "B": 255,
+      "ScA": 1,
+      "ScR": 0.0129830325,
+      "ScG": 0.2788943,
+      "ScB": 1
+    },
+    "MainWindowLineVerticalMargin": 3,
+    "CurrentComponentConfig": "Default",
+    "IsNotificationEnabled": true,
+    "NotificationProvidersEnableStates": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": true,
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": true,
+      "7625de96-38aa-4b71-b478-3f156dd9458d": true,
+      "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": true,
+      "b27c0af3-c917-44de-a61d-8010c3f3fb92": true,
+      "9b570bf1-9a32-40c0-9d5d-4ffa69e03a37": true,
+      "a0c99b32-efa4-4843-adf6-54de7c6fcd56": true
+    },
+    "NotificationProvidersPriority": [
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc",
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51",
+      "7625de96-38aa-4b71-b478-3f156dd9458d",
+      "4b12f124-8585-43c7-afc5-7bbb7cbe60d6",
+      "b27c0af3-c917-44de-a61d-8010c3f3fb92",
+      "9b570bf1-9a32-40c0-9d5d-4ffa69e03a37",
+      "a0c99b32-efa4-4843-adf6-54de7c6fcd56"
+    ],
+    "NotificationProvidersSettings": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+        "IsClassOnNotificationEnabled": true,
+        "IsClassOnPreparingNotificationEnabled": true,
+        "IsClassOffNotificationEnabled": true,
+        "InDoorClassPreparingDeltaTime": 120,
+        "OutDoorClassPreparingDeltaTime": 180,
+        "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+        "ClassOnPreparingMaskText": "即将上课",
+        "OutdoorClassOnPreparingMaskText": "即将上课",
+        "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+        "ClassOnMaskText": "上课",
+        "ClassOffMaskText": "课间休息",
+        "ClassOffOverlayText": "",
+        "IsSpeechEnabledOnClassPreparing": true,
+        "IsSpeechEnabledOnClassOn": true,
+        "IsSpeechEnabledOnClassOff": false,
+        "ShowTeacherName": true,
+        "IsActive": false
+      },
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+        "IsEnabled": true,
+        "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+        "IsActive": false
+      },
+      "7625de96-38aa-4b71-b478-3f156dd9458d": {
+        "AlertShowMode": 1,
+        "ForecastShowMode": 1,
+        "IsAlertEnabled": false,
+        "IsForecastEnabled": true,
+        "WeatherAlertSpeed": 7,
+        "IsActive": false
+      },
+      "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": null,
+      "b27c0af3-c917-44de-a61d-8010c3f3fb92": {
+        "Latitude": 34.814,
+        "Longitude": 114.207,
+        "Threshold": 2,
+        "Info": "",
+        "IsActive": false
+      },
+      "9b570bf1-9a32-40c0-9d5d-4ffa69e03a37": null,
+      "a0c99b32-efa4-4843-adf6-54de7c6fcd56": null
+    },
+    "NotificationProvidersNotifySettings": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "7625de96-38aa-4b71-b478-3f156dd9458d": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "b27c0af3-c917-44de-a61d-8010c3f3fb92": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "9b570bf1-9a32-40c0-9d5d-4ffa69e03a37": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "a0c99b32-efa4-4843-adf6-54de7c6fcd56": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      }
+    },
+    "NotificationChannelsNotifySettings": {
+      "cddfe7ff-b904-4c73-b458-82793b2f66e9": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "aff5b9a4-037c-4a71-8563-c9ea87dda75c": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "77c9f3fb-0a2a-4b22-bddf-3c333462b2f9": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      }
+    },
+    "IsSystemSpeechSystemExist": false,
+    "IsNetworkConnect": true,
+    "IsSpeechEnabled": true,
+    "SpeechVolume": 1,
+    "SpeechSource": 1,
+    "SelectedSpeechProvider": "classisland.speech.edgeTts",
+    "EdgeTtsVoiceName": "zh-CN-YunxiaNeural",
+    "IsNotificationEffectEnabled": true,
+    "IsNotificationSoundEnabled": true,
+    "NotificationSoundPath": "",
+    "IsNotificationTopmostEnabled": true,
+    "NotificationEffectRenderingScale": 0.5,
+    "IsNotificationEffectRenderingScaleAutoSet": true,
+    "AllowNotificationSpeech": false,
+    "AllowNotificationEffect": true,
+    "AllowNotificationSound": false,
+    "AllowNotificationTopmost": true,
+    "NotificationSoundVolume": 1,
+    "NotificationSpeechCustomSmgTokenSource": "",
+    "GptSoVitsSpeechSettings": {
+      "PresetName": "新预设",
+      "IsInternal": false,
+      "GptSoVitsServerIp": "127.0.0.1",
+      "GptSoVitsPort": "8000",
+      "GptSoVitsVoiceName": "your_voice_name",
+      "GptSoVitsTextLang": "zh",
+      "GptSoVitsRefAudioPath": "archive_jingyuan_1.wav",
+      "GptSoVitsPromptLang": "zh",
+      "GptSoVitsPromptText": "我是「罗浮」云骑将军景元。不必拘谨，「将军」只是一时的身份，你称呼我景元便可",
+      "GptSoVitsTextSplitMethod": "cut5",
+      "GptSoVitsBatchSize": 1
+    },
+    "NotificationUseStandaloneEffectUiThread": false,
+    "IsAutomationEnabled": true,
+    "CurrentAutomationConfig": "Default",
+    "IsAutomationWarningVisible": false,
+    "UpdateMode": 3,
+    "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
+    "LastCheckUpdateTime": "2026-01-11T17:04:58.0005256+08:00",
+    "LastUpdateStatus": 0,
+    "AutoInstallUpdateNextStartup": true,
+    "SpeedTestResults": {
+      "main": {
+        "Delay": 19,
+        "CanConnect": true,
+        "IsTested": true,
+        "IsTesting": false,
+        "IsDelayUnclear": false,
+        "IsActive": false
+      },
+      "github-origin": {
+        "Delay": 104,
+        "CanConnect": true,
+        "IsTested": true,
+        "IsTesting": false,
+        "IsDelayUnclear": true,
+        "IsActive": false
+      }
+    },
+    "IsAutoSelectUpgradeMirror": true,
+    "LastSpeedTest": "2026-01-11T17:04:56.4920536+08:00",
+    "LastUpdateSourceKind": 2,
+    "UpdateReleaseInfo": "",
+    "UpdateDownloadUrl": "",
+    "UpdateVersion": "0.0",
+    "UpdateArtifactHash": "",
+    "SelectedUpdateMirrorV2": "main",
+    "SelectedUpdateChannelV2": "beta",
+    "WindowDockingLocation": 1,
+    "IsIgnoreWorkAreaEnabled": true,
+    "WindowDockingOffsetX": 0,
+    "WindowDockingOffsetY": 0,
+    "WindowDockingMonitorIndex": 0,
+    "WindowLayer": 1,
+    "IsMouseClickingEnabled": false,
+    "UseRawInput": true,
+    "IsMouseInFadingEnabled": false,
+    "IsMouseInFadingReversed": false,
+    "TouchInFadingDurationMs": 0,
+    "IsCompatibleWindowTransparentEnabled": false,
+    "LastWeatherInfo": {
+      "current": {
+        "feelsLike": {
+          "value": "12",
+          "unit": "℃"
+        },
+        "humidity": {
+          "value": "19",
+          "unit": "%"
+        },
+        "pressure": {
+          "value": "1006",
+          "unit": "hPa"
+        },
+        "temperature": {
+          "value": "12",
+          "unit": "℃"
+        },
+        "visibility": {
+          "value": "",
+          "unit": "km"
+        },
+        "weather": "1",
+        "pubTime": "2026-01-12T18:34:24+08:00",
+        "wind": {
+          "direction": {
+            "value": "291.0",
+            "unit": "°"
+          },
+          "speed": {
+            "value": "9.0",
+            "unit": "km/h"
+          }
+        }
+      },
+      "alerts": [],
+      "updateTime": 1768214487989,
+      "forecastDaily": {
+        "precipitationProbability": {
+          "value": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        "temperature": {
+          "value": [
+            {
+              "from": "14",
+              "to": "0"
+            },
+            {
+              "from": "14",
+              "to": "0"
+            },
+            {
+              "from": "13",
+              "to": "0"
+            },
+            {
+              "from": "18",
+              "to": "1"
+            },
+            {
+              "from": "9",
+              "to": "-2"
+            },
+            {
+              "from": "6",
+              "to": "-2"
+            },
+            {
+              "from": "2",
+              "to": "-3"
+            },
+            {
+              "from": "-2",
+              "to": "-5"
+            },
+            {
+              "from": "-2",
+              "to": "-8"
+            },
+            {
+              "from": "-1",
+              "to": "-10"
+            },
+            {
+              "from": "2",
+              "to": "-2"
+            },
+            {
+              "from": "4",
+              "to": "0"
+            },
+            {
+              "from": "4",
+              "to": "-2"
+            },
+            {
+              "from": "4",
+              "to": "0"
+            },
+            {
+              "from": "6",
+              "to": "0"
+            }
+          ]
+        },
+        "weather": {
+          "value": [
+            {
+              "from": "1",
+              "to": "0"
+            },
+            {
+              "from": "0",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "0"
+            },
+            {
+              "from": "1",
+              "to": "0"
+            },
+            {
+              "from": "0",
+              "to": "0"
+            },
+            {
+              "from": "1",
+              "to": "6"
+            },
+            {
+              "from": "6",
+              "to": "6"
+            },
+            {
+              "from": "33",
+              "to": "33"
+            },
+            {
+              "from": "33",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "1"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            }
+          ]
+        },
+        "sunRiseSet": {
+          "value": [
+            {
+              "from": "2026-01-12T07:31:00+08:00",
+              "to": "2026-01-12T17:31:00+08:00"
+            },
+            {
+              "from": "2026-01-13T07:30:00+08:00",
+              "to": "2026-01-13T17:32:00+08:00"
+            },
+            {
+              "from": "2026-01-14T07:30:00+08:00",
+              "to": "2026-01-14T17:33:00+08:00"
+            },
+            {
+              "from": "2026-01-15T07:30:00+08:00",
+              "to": "2026-01-15T17:34:00+08:00"
+            },
+            {
+              "from": "2026-01-16T07:30:00+08:00",
+              "to": "2026-01-16T17:35:00+08:00"
+            },
+            {
+              "from": "2026-01-17T07:29:00+08:00",
+              "to": "2026-01-17T17:36:00+08:00"
+            },
+            {
+              "from": "2026-01-18T07:29:00+08:00",
+              "to": "2026-01-18T17:37:00+08:00"
+            },
+            {
+              "from": "2026-01-19T07:29:00+08:00",
+              "to": "2026-01-19T17:38:00+08:00"
+            },
+            {
+              "from": "2026-01-20T07:28:00+08:00",
+              "to": "2026-01-20T17:39:00+08:00"
+            },
+            {
+              "from": "2026-01-21T07:28:00+08:00",
+              "to": "2026-01-21T17:40:00+08:00"
+            },
+            {
+              "from": "2026-01-22T07:27:00+08:00",
+              "to": "2026-01-22T17:41:00+08:00"
+            },
+            {
+              "from": "2026-01-23T07:27:00+08:00",
+              "to": "2026-01-23T17:42:00+08:00"
+            },
+            {
+              "from": "2026-01-24T07:26:00+08:00",
+              "to": "2026-01-24T17:43:00+08:00"
+            },
+            {
+              "from": "2026-01-25T07:26:00+08:00",
+              "to": "2026-01-25T17:44:00+08:00"
+            },
+            {
+              "from": "2026-01-26T07:25:00+08:00",
+              "to": "2026-01-26T17:45:00+08:00"
+            }
+          ]
+        }
+      },
+      "forecastHourly": {
+        "temperature": {
+          "value": [11, 8, 7, 6, 4, 4, 4, 4, 3, 2, 0, 0, 0, 0, 5, 5, 9, 11, 13, 14, 14, 14, 12]
+        },
+        "weather": {
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        }
+      },
+      "minutely": {
+        "precipitation": {
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        }
+      },
+      "aqi": {
+        "aqi": "73"
+      }
+    },
+    "CityId": "weathercn:101180806",
+    "CityName": "龙亭 (开封, 河南, 中国)",
+    "ExcludedWeatherAlerts": [],
+    "WeatherIconId": "classisland.weatherIcons.materialDesign",
+    "ExpIsExcelImportEnabled": false,
+    "ExpAllowEditingActivatedTimeLayout": false,
+    "DiagnosticFirstLaunchTime": "2025-10-20T16:08:01.2328818+08:00",
+    "DiagnosticStartupCount": 230,
+    "DiagnosticCrashCount": 0,
+    "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
+    "DiagnosticMemoryKillCount": 0,
+    "DiagnosticLastMemoryKillTime": "2025-10-20T16:08:01.2328819+08:00",
+    "IsAutoBackupEnabled": true,
+    "LastAutoBackupTime": "2026-01-11T17:04:53.6878565+08:00",
+    "AutoBackupLimit": 16,
+    "AutoBackupIntervalDays": 1,
+    "OfficialIndexMirrors": {
+      "github": "https://github.com",
+      "ghproxy": "https://ghfast.top/https://github.com",
+      "moeyy": "https://github.moeyy.xyz/https://github.com"
+    },
+    "OfficialSelectedMirror": "github",
+    "PluginIndexes": [
+      {
+        "Id": "fd06be9e-6449-4589-a59d-402057eb444a",
+        "Url": "",
+        "SelectedMirror": "",
+        "IsActive": false
+      }
+    ],
+    "LastRefreshPluginSourceTime": "2025-12-15T15:03:58.2069389+08:00",
+    "IsPluginMarketWarningVisible": false,
+    "IsRollingComponentWarningVisible": true,
+    "IsThemeWarningVisible": false,
+    "IsDebugEnabled": false,
+    "IsDebugOptionsEnabled": false,
+    "IsMainWindowDebugEnabled": false,
+    "DebugAnimationScale": 1,
+    "TimeLayoutEditorIndex": 1,
+    "IsDebugConsoleEnabled": false,
+    "DebugGitHubAuthKey": "",
+    "ContributorsCache": {
+      "Contributors": [],
+      "IsActive": false
+    },
+    "LastAppVersion": "1.7.0.1",
+    "ShowComponentsMigrateTip": false,
+    "IsMigratedFromv1_4": false,
+    "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,
+    "IsSwapMode": true,
+    "ShowEchoCaveWhenSettingsPageLoading": false,
+    "SettingsPagesCachePolicy": 2,
+    "TrustedProfileIds": [
+      "f8bd2d11-2810-4e84-b8c8-d37034c7d6ee"
+    ],
+    "IsActive": false
+  }
