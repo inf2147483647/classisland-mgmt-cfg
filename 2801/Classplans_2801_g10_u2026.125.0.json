@@ -6,7 +6,7 @@
       "TimeLayoutId": "037a62e3-b784-4cdb-a8ce-7e6370125e2a",
       "TimeRule": {
         "WeekDay": 1,
-        "WeekCountDiv": 1,
+        "WeekCountDiv": 2,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -185,7 +185,7 @@
       "TimeLayoutId": "037a62e3-b784-4cdb-a8ce-7e6370125e2a",
       "TimeRule": {
         "WeekDay": 2,
-        "WeekCountDiv": 1,
+        "WeekCountDiv": 2,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -364,7 +364,7 @@
       "TimeLayoutId": "8ae83cea-c94d-4beb-91fa-56d17c983afe",
       "TimeRule": {
         "WeekDay": 2,
-        "WeekCountDiv": 2,
+        "WeekCountDiv": 1,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -543,7 +543,7 @@
       "TimeLayoutId": "037a62e3-b784-4cdb-a8ce-7e6370125e2a",
       "TimeRule": {
         "WeekDay": 3,
-        "WeekCountDiv": 1,
+        "WeekCountDiv": 2,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -722,7 +722,7 @@
       "TimeLayoutId": "8ae83cea-c94d-4beb-91fa-56d17c983afe",
       "TimeRule": {
         "WeekDay": 3,
-        "WeekCountDiv": 2,
+        "WeekCountDiv": 1,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -901,7 +901,7 @@
       "TimeLayoutId": "037a62e3-b784-4cdb-a8ce-7e6370125e2a",
       "TimeRule": {
         "WeekDay": 4,
-        "WeekCountDiv": 1,
+        "WeekCountDiv": 2,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -1080,7 +1080,7 @@
       "TimeLayoutId": "27e04ced-ba32-4be6-99aa-13043f6d3b9b",
       "TimeRule": {
         "WeekDay": 5,
-        "WeekCountDiv": 1,
+        "WeekCountDiv": 2,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -1241,7 +1241,7 @@
       "TimeLayoutId": "8ae83cea-c94d-4beb-91fa-56d17c983afe",
       "TimeRule": {
         "WeekDay": 1,
-        "WeekCountDiv": 2,
+        "WeekCountDiv": 1,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -1420,7 +1420,7 @@
       "TimeLayoutId": "8ae83cea-c94d-4beb-91fa-56d17c983afe",
       "TimeRule": {
         "WeekDay": 4,
-        "WeekCountDiv": 2,
+        "WeekCountDiv": 1,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -1599,7 +1599,7 @@
       "TimeLayoutId": "99f0a9ce-6d6b-4103-8863-15e05d9d2304",
       "TimeRule": {
         "WeekDay": 5,
-        "WeekCountDiv": 2,
+        "WeekCountDiv": 1,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -1760,7 +1760,7 @@
       "TimeLayoutId": "2a2fb17b-251c-4871-96a6-2349b5ec83eb",
       "TimeRule": {
         "WeekDay": 0,
-        "WeekCountDiv": 2,
+        "WeekCountDiv": 1,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
@@ -1921,7 +1921,7 @@
       "TimeLayoutId": "d5428da1-d7ea-4912-ac11-876eef6cd037",
       "TimeRule": {
         "WeekDay": 0,
-        "WeekCountDiv": 1,
+        "WeekCountDiv": 2,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
