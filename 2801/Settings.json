@@ -9,7 +9,7 @@
   "WeatherLatitude": 34.8138,
   "WeatherLocationSource": 1,
   "AutoRefreshWeatherLocation": false,
-  "SingleWeekStartTime": "2025-09-01T00:00:00",
+  "SingleWeekStartTime": "2026-03-04T00:00:00",
   "MultiWeekRotationOffset": [-1, -1, 0, 0, 0],
   "ClassPrepareNotifySeconds": 60,
   "IsClassPrepareNotificationEnabled": true,
@@ -405,7 +405,7 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2026-03-04T12:12:48.9704984+08:00",
+  "LastCheckUpdateTime": "2026-03-04T12:17:56.0414848+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
@@ -470,7 +470,7 @@
         "unit": "km"
       },
       "weather": "18",
-      "pubTime": "2026-03-04T12:08:08+08:00",
+      "pubTime": "2026-03-04T12:12:35+08:00",
       "wind": {
         "direction": {
           "value": "106.0",
@@ -498,7 +498,7 @@
         "IsDefaultIcon": 0
       }
     ],
-    "updateTime": 1772597399493,
+    "updateTime": 1772597699562,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -736,7 +736,7 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-10-20T16:08:01.2328818+08:00",
-  "DiagnosticStartupCount": 244,
+  "DiagnosticStartupCount": 246,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
