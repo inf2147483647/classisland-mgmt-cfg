@@ -9,7 +9,7 @@
   "WeatherLatitude": 34.8138,
   "WeatherLocationSource": 1,
   "AutoRefreshWeatherLocation": false,
-  "SingleWeekStartTime": "2025-09-01T00:00:00",
+  "SingleWeekStartTime": "2026-03-04T00:00:00",
   "MultiWeekRotationOffset": [-1, -1, 0, 0, 0],
   "ClassPrepareNotifySeconds": 60,
   "IsClassPrepareNotificationEnabled": true,
@@ -405,7 +405,7 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2026-03-04T11:53:51.4272576+08:00",
+  "LastCheckUpdateTime": "2026-03-04T12:20:04.3183075+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
@@ -454,15 +454,15 @@
         "unit": "℃"
       },
       "humidity": {
-        "value": "91",
+        "value": "85",
         "unit": "%"
       },
       "pressure": {
-        "value": "1017",
+        "value": "1016",
         "unit": "hPa"
       },
       "temperature": {
-        "value": "5",
+        "value": "6",
         "unit": "℃"
       },
       "visibility": {
@@ -470,10 +470,10 @@
         "unit": "km"
       },
       "weather": "18",
-      "pubTime": "2026-03-04T11:48:03+08:00",
+      "pubTime": "2026-03-04T12:47:43+08:00",
       "wind": {
         "direction": {
-          "value": "107.0",
+          "value": "106.0",
           "unit": "°"
         },
         "speed": {
@@ -498,7 +498,7 @@
         "IsDefaultIcon": 0
       }
     ],
-    "updateTime": 1772596199128,
+    "updateTime": 1772599800587,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -523,7 +523,7 @@
         "value": [
           {
             "from": "11",
-            "to": "4"
+            "to": "2"
           },
           {
             "from": "12",
@@ -562,23 +562,23 @@
             "to": "5"
           },
           {
-            "from": "18",
-            "to": "11"
+            "from": "15",
+            "to": "8"
           },
           {
-            "from": "18",
+            "from": "12",
             "to": "4"
           },
           {
-            "from": "16",
+            "from": "7",
             "to": "4"
           },
           {
-            "from": "14",
-            "to": "7"
+            "from": "8",
+            "to": "5"
           },
           {
-            "from": "14",
+            "from": "12",
             "to": "7"
           }
         ]
@@ -627,7 +627,11 @@
           },
           {
             "from": "2",
-            "to": "2"
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
           },
           {
             "from": "2",
@@ -635,14 +639,10 @@
           },
           {
             "from": "7",
-            "to": "1"
-          },
-          {
-            "from": "0",
             "to": "2"
           },
           {
-            "from": "0",
+            "from": "2",
             "to": "2"
           }
         ]
@@ -706,18 +706,18 @@
             "to": "2026-03-17T18:31:00+08:00"
           },
           {
-            "from": "2026-03-18T07:21:00+08:00",
-            "to": "2026-03-18T17:12:00+08:00"
+            "from": "2026-03-18T06:30:00+08:00",
+            "to": "2026-03-18T18:32:00+08:00"
           }
         ]
       }
     },
     "forecastHourly": {
       "temperature": {
-        "value": [5, 6, 7, 8, 10, 11, 10, 10, 9, 8, 7, 7, 7, 7, 6, 6, 5, 4, 3, 3, 3, 6, 7]
+        "value": [7, 8, 9, 10, 11, 10, 10, 9, 8, 7, 7, 7, 7, 6, 6, 5, 4, 3, 3, 3, 6, 7, 9]
       },
       "weather": {
-        "value": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]
+        "value": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1]
       }
     },
     "minutely": {
@@ -726,7 +726,7 @@
       }
     },
     "aqi": {
-      "aqi": "157"
+      "aqi": "161"
     }
   },
   "CityId": "weathercn:101180806",
@@ -736,7 +736,7 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-10-20T16:08:01.2328818+08:00",
-  "DiagnosticStartupCount": 249,
+  "DiagnosticStartupCount": 253,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
