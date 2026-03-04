@@ -182,9 +182,9 @@
   "MainWindowFontWeight2": 400,
   "RadiusX": 10,
   "RadiusY": 0,
-  "MainWindowSecondaryFontSize": 14,
-  "MainWindowBodyFontSize": 16,
-  "MainWindowEmphasizedFontSize": 18,
+  "MainWindowSecondaryFontSize": 15,
+  "MainWindowBodyFontSize": 20,
+  "MainWindowEmphasizedFontSize": 20,
   "MainWindowLargeFontSize": 20,
   "IsCustomForegroundColorEnabled": false,
   "CustomForegroundColor": {
@@ -405,7 +405,7 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2026-03-04T11:46:53.5996746+08:00",
+  "LastCheckUpdateTime": "2026-03-04T11:55:13.660901+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
@@ -454,7 +454,7 @@
         "unit": "℃"
       },
       "humidity": {
-        "value": "93",
+        "value": "91",
         "unit": "%"
       },
       "pressure": {
@@ -470,7 +470,7 @@
         "unit": "km"
       },
       "weather": "18",
-      "pubTime": "2026-03-04T11:42:00+08:00",
+      "pubTime": "2026-03-04T11:52:07+08:00",
       "wind": {
         "direction": {
           "value": "107.0",
@@ -498,7 +498,7 @@
         "IsDefaultIcon": 0
       }
     ],
-    "updateTime": 1772595899058,
+    "updateTime": 1772596499183,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -736,7 +736,7 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-10-20T16:08:01.2328818+08:00",
-  "DiagnosticStartupCount": 238,
+  "DiagnosticStartupCount": 241,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
