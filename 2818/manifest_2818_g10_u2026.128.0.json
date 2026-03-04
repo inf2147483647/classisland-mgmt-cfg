@@ -2,15 +2,19 @@
     "ServerKind": 0,
     "OrganizationName": "Classisland集控2810",
     "ClassPlanSource": {
-        "Value": "https://github.com/inf2147483647/classisland-mgmt-cfg/2818/ClassPlans_2801_g10_u2026.128.0.json",
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2818/classplans_2818_g10_u2026.128.0.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://github.com/inf2147483647/classisland-mgmt-cfg/2818/TimeLayouts_2801_g10_u2026.128.0.json",
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2818/timelayouts_2818_g10_u2026.128.0.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://github.com/inf2147483647/classisland-mgmt-cfg/2818/subjects_2801_g10_u2026.128.0.json",
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2818/subjects_2818_g10_u2026.128.0.json",
+        "Version": 1
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://example.com/settings.json",
         "Version": 1
     }
 }
