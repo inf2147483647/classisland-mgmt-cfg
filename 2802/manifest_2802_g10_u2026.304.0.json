@@ -1,0 +1,21 @@
+{
+    "ClassPlanSource": {
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2802/ClassPlans_2802_g10_u2026.304.0.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2802/TimeLayouts_2802_g10_u2026.304.0.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2802/Subjects_2802_g10_u2026.304.0.json",
+        "Version": 1
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://raw.gitcode.com/inf2147483647/classisland-mgmt-cfg/raw/main/2802/Settings.json",
+        "Version": 1
+    },
+    
+    "ServerKind": 0,
+    "OrganizationName": "2802集控"
+}
