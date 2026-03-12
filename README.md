@@ -30,4 +30,4 @@ ClassIsland集控配置文件的编写目前已完成
 - [x] 2818
 <span style="font-size:12px;">该图为作者,个人爱好,无不良引导,仅供娱乐,请勿过度解读,不喜勿喷</span>  
 ~~这张图片放班级白板上比我整个人都大~~  
-<a href="https://gitcode.com/inf2147483647/hanfu-store-investigation/blob/main/store/offline/%E6%9C%88%E5%8D%8E%E8%B5%8B%E6%B1%89%E6%9C%8D%E5%A6%86%E9%80%A0-%E5%BC%80%E5%B0%81%E5%BA%97/%E6%9C%88%E5%8D%8E%E8%B5%8B%E6%B1%89%E6%9C%8D%E5%A6%86%E9%80%A0(%E5%BC%80%E5%B0%81%E5%BA%97).md" style="color:#FF8000">妆造地址：七盛角--月华赋汉服妆造(开封店)</a>
+<a href="https://gitcode.com/inf2147483647/hanfu-store-investigation/blob/main/store/offline/%E5%BC%80%E5%B0%81%E5%B8%82/%E6%9C%88%E5%8D%8E%E8%B5%8B%E6%B1%89%E6%9C%8D%E5%A6%86%E9%80%A0-%E5%BC%80%E5%B0%81%E5%BA%97/%E6%9C%88%E5%8D%8E%E8%B5%8B%E6%B1%89%E6%9C%8D%E5%A6%86%E9%80%A0(%E5%BC%80%E5%B0%81%E5%BA%97).md" style="color:#FF8000">妆造地址：七盛角--月华赋汉服妆造(开封店)</a>
